@@ -6,3 +6,5 @@
 <p align="center"> 
 <b>Fig. 1</b> The design of the structure for simultaneously estimating the frequency and amplitude modulations of SSVEP signals. 
 </p>
+
+![alt text](Predictive_model_structure/Predictive_model_structure.001.png)
