@@ -8,3 +8,6 @@
 </p>
 
 ![alt text](Predictive_model_structure/Predictive_model_structure.001.png)
+<p align="center"> 
+<b>Fig. 2</b> Architecture of leave-one-subject-out cross-validation (LOCV) with the grid search algorithm for training of the model. 
+</p>
