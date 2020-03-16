@@ -11,3 +11,23 @@
 <p align="center"> 
 <b>Fig. 2</b> Architecture of leave-one-subject-out cross-validation (LOCV) with the grid search algorithm for training of the model. 
 </p>
+
+## Citation
+
+```
+@ARTICLE{8926475, 
+author={P. {Autthasan} and X. {Du} and J. {Arnin} and S. {Lamyai} and M. {Perera} and S. {Itthipuripat} and T. {Yagi} and P. {Manoonpong} and T. {Wilaiprasitporn}}, 
+journal={IEEE Sensors Journal}, 
+title={A Single-Channel Consumer-Grade EEG Device for Brain–Computer Interface: Enhancing Detection of SSVEP and Its Amplitude Modulation}, 
+year={2020}, 
+volume={20}, 
+number={6}, 
+pages={3366-3378}, 
+keywords={Electroencephalography;Frequency modulation;Amplitude modulation;Visualization;Computers;Signal to noise ratio;Brain-computer interfaces (BCIs);steady-state visually evoked potentials (SSVEPs);modulation of SSVEP amplitude;consumer-grade EEG;OpenBCI}, 
+doi={10.1109/JSEN.2019.2958210}, 
+ISSN={2379-9153}, 
+month={March},}
+```
+
+
+
